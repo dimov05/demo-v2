@@ -1,1 +1,3 @@
 23 parking spots
+- 4 parking spots 
+= 19 parking spots
